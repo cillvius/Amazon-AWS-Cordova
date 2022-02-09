@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-awss3",
+  "version": "0.0.4",
+  "description": "forked from [StephenForte/Amazon-AWS-Cordova](https://github.com/StephenForte/Amazon-AWS-Cordova.git)",
+  "cordova": {
+    "id": "cordova-plugin-awss3",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cillvius/Amazon-AWS-Cordova.git"
+  },
+  "keywords": [
+    "cordova",
+    "aws",
+    "s3",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Cillvius",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/cillvius/Amazon-AWS-Cordova/issues"
+  },
+  "homepage": "https://github.com/cillvius/Amazon-AWS-Cordova#readme"
+}

@@ -18,5 +18,6 @@
 -->
 
 # com.amazon.aws
+Forked from [StephenForte/Amazon-AWS-Cordova](https://github.com/StephenForte/Amazon-AWS-Cordova.git)
 
 Plugin documentation: [doc/index.md](doc/index.md)
