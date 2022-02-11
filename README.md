@@ -20,4 +20,6 @@
 # com.amazon.aws
 Forked from [StephenForte/Amazon-AWS-Cordova](https://github.com/StephenForte/Amazon-AWS-Cordova.git)
 
+Install Ionic/Cordova project: ```ionic cordova plugins add https://github.com/cillvius/Amazon-AWS-Cordova.git --variable ACCESS_KEY=value --variable SECRET_KEY=value ```
+
 Plugin documentation: [doc/index.md](doc/index.md)
