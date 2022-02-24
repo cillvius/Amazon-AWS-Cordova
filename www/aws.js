@@ -6,7 +6,7 @@ var utils = require('cordova/utils');
 channel.onCordovaReady.subscribe(function() {
 	exec(function(credentials){
 		AWS.config.update({accessKeyId: credentials.accessKey, secretAccessKey: credentials.secretKey});
-    	AWS.config.region = 'us-west-2';
+    	AWS.config.region = 'sa-east-1';// 'us-west-2';
 	}, function(e) {
 		utils.alert("[ERROR] Error initializing Cordova: " + e);
     }, "AWS", "getCredentials", []);
